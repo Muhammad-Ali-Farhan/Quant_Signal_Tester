@@ -1,4 +1,4 @@
-# Quant Signal Dashboard
+# Quant Signal Tester
 
 A lightweight quant tester that pulls historical prices, computes classic signals, and runs a simple top-K long-only backtest. The app provides an interactive view of performance, a benchmark comparison, a latest signal snapshot, and turnover monitoring.
 
